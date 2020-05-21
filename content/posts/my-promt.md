@@ -1,7 +1,7 @@
 ---
 title: "Mi prompt"
 date: 2020-05-20T00:37:02-04:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
